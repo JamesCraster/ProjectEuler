@@ -1,0 +1,5 @@
+This problem can be solved with mathematics alone:
+There must be 20 downs and 20 rights, so the only option is to permute them.
+40! / (20!)**2 == 137846528820
+
+
